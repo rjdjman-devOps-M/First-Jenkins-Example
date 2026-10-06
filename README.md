@@ -1,2 +1,2 @@
 # First-Jenkins-Example
-check first Jenkins project test example rj-dj-man
+check first Jenkins project test example rj-dj-man-01
